@@ -12,3 +12,4 @@ Includes versions for two lighting conditions:
 
 ## Thermotaxis Image Import Scripts
 Assumes a camera configuration where the two cameras tile the width of a thermotaxis plate. Also assumes data were collected using dark field illumination.
+Two versions are included: one written in the ImageJ Macro language, and one written using Python that is generally equivalent. The .ijm version is the primary version.
